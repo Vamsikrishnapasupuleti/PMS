@@ -1,0 +1,41 @@
+.headerBar
+{
+    margin-top: 1%;
+    border: 1px solid #E5E5E5;
+    background: #F5F5F5;
+    padding: 1%;
+    border-radius: 20px;
+    text-align: left !important;
+    
+}
+.search1
+{
+
+border-radius:25px;
+padding: 1% !important;
+border-color: #d41872;
+width: 15% !important;
+margin-left: 2%;
+border: 2px #a445b2 solid;
+}
+
+.searchClass1{
+
+border: 0px;
+background: white;
+margin-left: -7%;
+
+}
+.insideDiv
+{
+color:#d41872 !important;
+margin-right:10%;
+display: inline-block; 
+}
+
+#addtaskdetails tr td
+{
+border-bottom: 0px solid #ddd;
+ padding: 0px;
+
+}

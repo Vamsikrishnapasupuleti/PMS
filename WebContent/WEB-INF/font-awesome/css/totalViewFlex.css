@@ -1,0 +1,512 @@
+
+.pull-right {
+  float: right !important;
+  font-size: 1.4rem;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif";
+}
+.fa-exit:before
+{
+	content: "\f08b";
+}
+
+.fa-exit{
+display: inline-block;
+font: normal normal normal 14px/1 FontAwesome;
+
+
+-webkit-font-smoothing: antialiased;
+}
+
+
+.fa-language:before
+{
+	content: "\f1ab";
+}
+
+.fa-language{
+display: inline-block;
+font: normal normal normal 14px/1 FontAwesome;
+
+
+-webkit-font-smoothing: antialiased;
+}
+
+.fa-go
+{
+display: inline-block;
+font: normal normal normal 14px/1 FontAwesome;
+-webkit-font-smoothing: antialiased;
+}
+
+.fa-go:before
+{
+content: "\f073";
+}
+
+.flexDiv{
+border: 1px solid #DDD;
+
+background: #fff;
+
+margin-right: auto; 
+margin-left: auto; 
+width: 80%;
+
+}
+.center
+{
+margin-left: auto;
+margin-right: auto;
+width: 80% !important; 
+text-align: center;
+}
+
+.tdnolines{
+
+border: 0px solid #DDD;
+}
+
+TD.textFont
+{
+  font-size: 1.3rem !important;
+  font-family:Helvetica Neue, Helvetica, Arial, sans-serif !important;
+  color:black;
+  text-align: left;
+}
+
+
+.RUIFW-table-border, .RUIFW-table-border tbody tr th, .RUIFW-table-border td {
+
+    border: 0px !important;
+
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+
+    padding: 2px !important;
+   
+
+}
+
+
+.col-sm-6 {
+
+    width: 24% !important;
+
+}
+
+
+#info thead tr th, #info tbody tr th,#info tfoot tr th,#info  thead tr td,#info  tbody tr td,#info  tfoot tr td  {
+ padding: 8px !important;
+}
+#info tr
+{
+ border-top: 1px solid #dddddd;
+}
+
+#dataTable thead tr th, #dataTable tbody tr th,#dataTable tfoot tr th,#dataTable  thead tr td,#dataTable  tbody tr td,#dataTable  tfoot tr td  {
+ padding: 8px !important;
+}
+
+#dataTable tr
+{
+ border-top: 1px solid #dddddd;
+}
+
+#updatedDates thead tr th, #updatedDates tbody tr th,#updatedDates tfoot tr th,#updatedDates  thead tr td,#updatedDates  tbody tr td,#updatedDates  tfoot tr td  {
+ padding: 8px !important;
+}
+
+#updatedDates tr
+{
+ border-top: 1px solid #dddddd;
+}
+
+
+#goalstable thead tr th, #goalstable tbody tr th,#goalstable tfoot tr th,#goalstable  thead tr td,#goalstable  tbody tr td,#goalstable  tfoot tr td  {
+ padding: 8px !important;
+}
+
+table tr#borderbottomgoalstable
+{
+ border-bottom: 1px solid #dddddd;
+}
+
+.mainheading
+{
+margin-left: 10%;
+}
+
+.tabslayout
+{
+margin-left: 10% ;
+margin-right: 10%;
+}
+
+.inlineStyleImp{
+display: inline !important;
+}
+
+.textRightFlex
+{
+text-align: right;
+}
+
+.textLeftFlex
+{
+text-align: left;
+}
+
+.textLeftFlexImp
+{
+text-align: left !important;
+}
+
+.textRightFlexImp
+{
+text-align: right !important;
+}
+
+.feeservicewidth
+{
+width: 30%;
+}
+
+.feeservicecolor
+{
+color: red !important;
+}
+
+.goalsidcolor
+{
+background-color: #F5F5F5 !important;
+}
+
+.borderTopFlex
+{
+border-top: 0px !important;
+}
+
+.borderBottomFlex
+{
+border-bottom: 2px gray solid !important;
+}
+
+.borderBottomtextAlignFlex
+{
+border-bottom: 2px gray solid !important;
+text-align: right;
+padding-right: 2% !important;
+}
+
+.colorPaddingFlex
+{
+background-color: #F5F5F5;
+padding: 0px !important;
+}
+
+.goalsdisplaydiv
+{
+overflow: scroll;
+overflow-x:hidden;
+width: 100%; 
+height: 150; 
+border-left: 2px #E5E5E5 solid; 
+border-right: 2px #E5E5E5 solid; 
+border-bottom: 1px #E5E5E5 solid; 
+padding:0px; 
+margin: 0px;
+background-color:white;
+}
+
+.paddingLeftFlex
+{
+padding-left: 3%
+}
+
+.colorGreen
+{
+color: #006363 !important;
+}
+.heightoverride
+{
+height: 10% !important;
+}
+
+
+.fa-next:before
+{
+	content: "\f105";
+}
+
+.fa-next{
+display: inline-block;
+font: normal normal normal 14px/1 FontAwesome;
+
+
+-webkit-font-smoothing: antialiased;
+}
+
+.fa-view:before
+{
+	content: "\f044";
+}
+
+.fa-view{
+display: inline-block;
+font: normal normal normal 14px/1 FontAwesome;
+
+
+-webkit-font-smoothing: antialiased;
+}
+
+.fa-previous:before
+{
+	content: "\f104";
+}
+
+.fa-previous{
+display: inline-block;
+font: normal normal normal 14px/1 FontAwesome;
+
+
+-webkit-font-smoothing: antialiased;
+}
+
+table td#formControlchange .form-control{
+width: 9% !important;
+display: inline-block !important;
+
+}
+
+table td#formControlchangetextbox .form-control{
+width: 20% !important;
+display: inline-block !important;
+
+}
+
+#assettable thead tr th, #assettable tbody tr th,#assettable tfoot tr th,#assettable  thead tr td,#assettable  tbody tr td,#assettable  tfoot tr td  {
+ padding: 8px !important;
+}
+
+#assettable thead tr th{
+
+text-align: center !important;
+vertical-align: middle !important;
+}
+
+#assettable tr{
+border-top: 1px solid #dddddd;
+}
+
+li
+{
+width: 17% !important;
+text-align: center !important;
+}
+.borderbottomFlex1px{
+ border-bottom: 1px solid #dddddd !important;
+}
+
+#liabtable thead tr th{
+
+text-align: center;
+}
+
+
+#liabtable thead tr th, #liabtable tbody tr th,#liabtable tfoot tr th,#liabtable  thead tr td,#liabtable  tbody tr td,#liabtable  tfoot tr td  {
+ padding: 8px !important;
+}
+
+SELECT.TotalViewWhereDropdown
+{
+width: 100% !important;
+}
+
+#goalsscreenTable thead tr th{
+
+text-align: center;
+}
+
+
+#goalsscreenTable thead tr th, #goalsscreenTable tbody tr th,#goalsscreenTable tfoot tr th,#goalsscreenTable  thead tr td,#goalsscreenTable  tbody tr td,#goalsscreenTable  tfoot tr td  {
+ padding: 8px !important;
+}
+
+
+.borderTabs{
+border-top-color: #D81E05 !important;
+
+border-left-color: #D81E05 !important;
+
+border-right-color: #D81E05 !important;
+}
+#feeServicestable thead tr th{
+
+text-align: center;
+}
+
+
+#feeServicestable thead tr th, #feeServicestable tbody tr th,#feeServicestable tfoot tr th,#feeServicestable  thead tr td,#feeServicestable  tbody tr td,#feeServicestable  tfoot tr td  {
+ padding: 8px !important;
+}
+
+.samelinediv
+{
+width: 50%;
+float: left;
+}
+
+.verticalalignflex{
+vertical-align: middle !important;
+}
+
+.heightoverride
+{
+height: 10% !important;
+}
+
+#resp-tab-sample li a{
+font-size: 1.6rem;
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  .center{
+  margin-left: 1% !important;
+  margin-right: 1% !important;
+  width: 100% !important;
+  }
+  .mainheading{
+  margin-left: 1% !important;
+  }
+  
+}
+
+.flextextarea
+{
+color: #333 !important;
+font-size: 20px !important;
+
+}
+.buttonblue{
+border-color: #357ebd !important;
+}
+.borderred{
+border-color: #D81E05 !important;
+}
+
+
+.fa-print:before
+{
+	content: "\f02f";
+}
+
+.fa-print{
+display: inline-block;
+font: normal normal normal 30px/1 FontAwesome;
+-webkit-font-smoothing: antialiased;
+color: #e20f13 !important;
+}
+
+#assetinfodata tbody tr td{
+
+font-size: 1.4rem !important;
+}
+
+
+.fa-minus-square:before
+{
+	content: "\f068";
+}
+
+.fa-minus-square{
+display: inline-block;
+font: normal normal normal 16px/1 FontAwesome;
+-webkit-font-smoothing: antialiased;
+color: black;
+}
+
+.fa-plus-square:before
+{
+	content: "\f067";
+}
+
+.fa-plus-square{
+display: inline-block;
+font: normal normal normal 16px/1 FontAwesome;
+-webkit-font-smoothing: antialiased;
+color: black;
+}
+
+
+
+#goaldetail thead tr th{
+
+text-align: center;
+vertical-align: middle !important;
+}
+
+
+#goaldetail thead tr th, #goaldetail tbody tr th,#goaldetail tfoot tr th,#goaldetail  thead tr td,#goaldetail  tbody tr td,#goaldetail  tfoot tr td  {
+ padding: 8px !important;
+}
+
+
+#customerrelationTable thead tr th{
+
+text-align: center;
+vertical-align: middle !important;
+}
+
+
+#customerrelationTable thead tr th, #customerrelationTable tbody tr th,#customerrelationTable tfoot tr th,#customerrelationTable  thead tr td,#customerrelationTable  tbody tr td,#customerrelationTable  tfoot tr td  {
+ padding: 8px !important;
+}
+
+
+
+#recommendedToolsTable thead tr th{
+
+text-align: center;
+vertical-align: middle !important;
+}
+
+
+#recommendedToolsTable thead tr th, #recommendedToolsTable tbody tr th,#recommendedToolsTable tfoot tr th,#recommendedToolsTable  thead tr td,#recommendedToolsTable  tbody tr td,#recommendedToolsTable  tfoot tr td  {
+ padding: 8px !important;
+}
+
+.fixed_header{
+    
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.fixed_header tbody{
+  display:block;
+  width:100%;
+  overflow: auto;
+  height: 200px;
+}
+
+
+
+.fixed_header thead tr {
+   display: block;
+}
+
+
+
+.fixed_header th, .fixed_header td {
+  padding: 5px;
+  
+}
+
+
+#recommendedToolsTable tr{
+border: 1px solid #dddddd;
+}
+
+#recommendedToolsTable tbody tr td{
+border: 1px solid #dddddd !important;
+vertical-align: middle !important;
+}
